@@ -22,6 +22,7 @@ const Button = styled.button`
   padding: 0.25em 1em;
   border: 2px solid palevioletred;
   border-radius: 3px;
+  cursor: pointer;
   text-align: center;
 `;
 
@@ -39,11 +40,13 @@ const Page = styled.h3`
 
 const Categories = styled.div`
   margin: 40px;
+  text-align: center;
   input {
-    background-color: #4caf50;
+    background-color: #6e738f;
+    cursor: pointer;
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 5px 15px;
     text-align: center;
     border-radius: 4px;
     border-right: 1px solid #e7e7e7;
