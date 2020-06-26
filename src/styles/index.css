@@ -15,7 +15,6 @@ body {
 }
 
 .gallery-item {
-  font-size: 0;
   line-height: 0;
 }
 
@@ -25,4 +24,7 @@ body {
   width: 100%;
   overflow: hidden;
   object-fit: cover;
+  -webkit-box-shadow: 7px 7px 38px -12px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 7px 7px 38px -12px rgba(0, 0, 0, 0.75);
+  box-shadow: 7px 7px 38px -12px rgba(0, 0, 0, 0.75);
 }
