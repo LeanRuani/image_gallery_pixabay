@@ -15,7 +15,7 @@ const Rates = styled.span`
 `;
 
 const Button = styled.button`
-  color: palevioletred;
+  color: red;
   font-size: 1em;
   float: right;
   margin: 10px;
