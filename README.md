@@ -1,8 +1,8 @@
-Galeria de imagenes con Hooks desde API de Pixabay
+## Image Gallery Pixabay
 
-API: https://pixabay.com/api/docs/
+Galeria de imagenes con Hooks desde API de Pixabay (https://pixabay.com/api/docs/)
 
-## Entorno
+## Construido con 🛠️
 
 - ReactJs / create-react-app
 - styled-components
